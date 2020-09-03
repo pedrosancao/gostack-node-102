@@ -2,9 +2,9 @@
 
 ![MIT License](https://img.shields.io/badge/license-MIT-%2304D361)
 
-# Node.Js 102
+# Node.js 102
 
-Challenge for Node.Js second module on Rocketseat's GoStack Online Bootcamp.
+Challenge for Node.js second module on Rocketseat's GoStack Online Bootcamp.
 
 This is a sample project to store and list transactions and compute balance.
 
